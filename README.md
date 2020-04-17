@@ -1,4 +1,7 @@
-# crud_test
+# Cara menggunakan aplikasi ini
+
+1. clone repo ini dan repo [api](http://github.com/zaenalarifin12/api_flutter_crud_basic.git)
+
 
 A new Flutter project.
 
